@@ -5,3 +5,16 @@ awusb/*.ko
 awusb/*.mod.c
 awusb/*.o
 awusb/modules.order
+libpng-1.2.*/
+x86-64/bin/
+x86-64/include/
+x86-64/libpng.*
+x86-64/libpng12.*
+x86-64/pkgconfig/
+x86-64/share/
+x86/bin/
+x86/include/
+x86/libpng.*
+x86/libpng12.*
+x86/pkgconfig/
+x86/share/
